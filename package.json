@@ -1,0 +1,25 @@
+{
+  "name": "jolie-yarn-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jolie-storm/jolie-yarn-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jolie-storm/jolie-yarn-plugin/issues"
+  },
+  "homepage": "https://github.com/jolie-storm/jolie-yarn-plugin#readme",
+  "dependencies": {
+    "@yarnpkg/core": "^2.4.0",
+    "@yarnpkg/fslib": "^2.4.0",
+    "jolie-jwt": "^1.0.3"
+  }
+}
